@@ -4,7 +4,7 @@ A simple project to learn about **CMake**, **CPack**, and get familiar with **Gi
 
 ## How to compile (in MINGW environnement):
 
-make a build directory, then make the following commands :
+Make a build directory, then make the following commands :
 
 ```bash
 cmake ../src/ -G "MinGW Makefiles"  
